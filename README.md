@@ -1,5 +1,5 @@
 # 💫 About Me:
-19<br>CEO, [ByteWorks](https://byteworks.live)<br>Backend-first Full stack dev 🧑‍💻<br>Low Level System Design 🕸️<br>Open Source Contributor 🗿<br>Will list my Projects 🍻<br>Here to build connection 💪
+19<br>Backend-first Full stack dev 🧑‍💻<br>Low Level System Design 🕸️<br>Open Source Contributor 🗿<br>Will list my Projects 🍻<br>Here to build connection 💪
 
 
 ## 🌐 Socials:
